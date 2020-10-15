@@ -12,7 +12,7 @@
             <ul>
                 <li v-for="skill in skills" v-text="skill"></li>
             </ul>
-    
+
         </div>
 
         <script src="https://unpkg.com/axios/dist/axios.min.js"></script>

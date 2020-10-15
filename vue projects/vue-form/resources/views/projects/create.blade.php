@@ -9,18 +9,27 @@
 </head>
 <body>
 
-    <div class="field">
-        <label class="label">Name</label>
-        <div class="control">
-            <input class="input" type="text" placeholder="e.g Alex Smith">
-        </div>
-    </div>
+    <div id="app" class="container">
+        @include('projects._list')
+        <form method="POST" action="/projects" @submit.prevent="onSubmit" @keydown="form.errors.clear($event.target.name)">
 
-    <div class="field">
-        <label class="label">Email</label>
-        <div class="control">
-            <input class="input" type="email" placeholder="e.g. alexsmith@gmail.com">
-        </div>
+            <div class="control">
+                <label class="label" for="name">Project Name</label>
+                <input class="input" type="text"  id="name" name="name" v-model="form.name">
+
+                <span class="" style="color: red" v-if="form.errors.has('name')" v-text="form.errors.get('name')"></span>
+            </div>
+
+            <div class="control">
+                <label class="label" for="description">Project Description</label>
+                <input class="input" type="text" name="description" id="description" v-model="form.description">
+
+                <span class="" style="color: red" v-if="form.errors.has('description')" v-text="form.errors.get('description')"></span>
+            </div>
+            <div class="control">
+                <button class="button is-primary" :disabled="form.errors.any()">Create</button>
+            </div>
+        </form>
     </div>
 
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
