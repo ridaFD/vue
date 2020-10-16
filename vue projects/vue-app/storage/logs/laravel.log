@@ -1,0 +1,90 @@
+[2020-10-12 08:12:35] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:13:00] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:13:09] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:13:36] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:14:44] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:16:48] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:17:35] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:20:49] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:24:42] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2020-10-12 08:27:15] local.ERROR: require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): require(/home/ridafd/vue/vue projects/vue-app/routes/console.php): failed to open stream: No such file or directory at /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php:39)
+[stacktrace]
+#0 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/ridafd/vue/vue projects/vue-app/app/Console/Kernel.php(39): require()
+#2 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(316): App\\Console\\Kernel->commands()
+#3 /home/ridafd/vue/vue projects/vue-app/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 /home/ridafd/vue/vue projects/vue-app/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
